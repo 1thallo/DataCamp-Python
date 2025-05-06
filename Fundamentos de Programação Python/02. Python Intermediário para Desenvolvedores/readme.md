@@ -18,4 +18,4 @@ Este curso abordou tópicos intermediários de programação em Python, incluind
 
 ---
 
-![DataCamp-Python_Intermediario_para_Desenvolvedores](https://github.com/user-attachments/assets/bed19b26-9825-458e-be7c-3262accf24b4)
+![DataCamp-Python_Intermediario_para_Desenvovedores](https://github.com/user-attachments/assets/04340efb-1245-4db8-8b3e-ab23421b22e4)
