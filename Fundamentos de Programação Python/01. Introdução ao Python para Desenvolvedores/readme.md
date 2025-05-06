@@ -18,9 +18,4 @@ Este curso abordou os fundamentos da programação em Python, incluindo:
 
 ---
 
-## Certificado de Conclusão - Introdução ao Python para Desenvolvedores
-
 ![DataCamp-Introducao_Python_para_Desenvolvedores](https://github.com/user-attachments/assets/bed19b26-9825-458e-be7c-3262accf24b4)
-
-
-
