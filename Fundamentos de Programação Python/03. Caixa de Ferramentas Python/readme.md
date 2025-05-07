@@ -1,8 +1,8 @@
 # Certificado de Conclusão - Python Intermediário para Desenvolvedores
 
 **Instituição:** [DataCamp](https://www.datacamp.com)  
-**Carga Horária:** 2 horas  
-**Data de Conclusão:** 6 de maio de 2025  
+**Carga Horária:** 4 horas  
+**Data de Conclusão:** 7 de maio de 2025  
 
 ---
 
@@ -30,4 +30,4 @@
 
 ---
 
-![DataCamp-Python_Intermediario_para_Desenvovedores](https://github.com/user-attachments/assets/04340efb-1245-4db8-8b3e-ab23421b22e4)
+![DataCamp-Python_Intermediario_para_Desenvovedores](https://github.com/user-attachments/assets/e4a666df-f373-4fed-a572-5a4909595cf9)
