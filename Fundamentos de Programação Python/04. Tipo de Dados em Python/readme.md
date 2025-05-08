@@ -40,4 +40,5 @@
 
 ---
 
-![DataCamp-Data_Type_Python](https://github.com/user-attachments/assets/e4a666df-f373-4fed-a572-5a4909595cf9)
+![DataCamp-Data_Type_Python](https://github.com/user-attachments/assets/e0bb304b-7469-4f85-9756-b93dc354e067)
+
