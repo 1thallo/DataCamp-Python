@@ -44,3 +44,8 @@ Este curso abordou os conceitos fundamentais e práticas recomendadas de Program
 - Uso de herança e polimorfismo para criar hierarquias de classes.
 
 ---
+
+## Certificado de conclusão de curso: POO em Python
+
+![Certificado de POO em Python](https://github.com/user-attachments/assets/a79943b1-b7f8-4308-8b2f-12a1e4a34f50)
+
